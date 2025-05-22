@@ -33,7 +33,6 @@ Download and install Graphviz from: https://graphviz.org/download/
 
 Ensure that the `dot` executable is available in your system `PATH`.
 
-```
 
 No additional Python packages are required.
 
