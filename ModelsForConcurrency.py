@@ -158,7 +158,7 @@ if __name__ == "__main__":
     program2 = [
         ("DEC", 2, 3),    # P0: if R2 == 0 → P3, else R2-- → P1
         ("INC", 1),       # P1: R1++
-        ("DEC", 0, 0),    # P2: Dummy-DEC mit R0 = 0 → zurück zu P0
+        ("DEC", 0, 0),    # P2: Dummy-DEC with R0 = 0 → back to P0
         ("HALT",)
     ]
 
